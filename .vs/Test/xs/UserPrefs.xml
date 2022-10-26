@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{709B45B6-3269-4B30-A0E6-388063A7C4E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test.Producer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AADTest/Startup.cs">
+    <Files>
+      <File FileName="AADTest/Startup.cs" Line="18" Column="39" />
+      <File FileName="AADTest/AADTest.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="AADTest" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="Test.WebApi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShardingCoreTest FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.AADTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="多个项目" Name="多个项目">
+      <Items>
+        <StartupItem ItemId="{9FC98D8B-FFBA-4C05-A798-EFCE9F95AC33}" ItemName="Test.Consumer" ConfigurationId="Default" />
+        <StartupItem ItemId="{EC8FEBA6-8354-4B73-97AD-72F0DCD9EA8E}" ItemName="Test.Producer" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

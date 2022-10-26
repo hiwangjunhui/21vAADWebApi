@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/Desktop/Projects/Test/Test.WebApi/Test.WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/Desktop/Projects/Test/Test.WebApi/Test.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Desktop/Projects/Test/Test.WebApi/Test.WebApi.csproj",
+        "projectName": "Test.WebApi",
+        "projectPath": "/Users/apple/Desktop/Projects/Test/Test.WebApi/Test.WebApi.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Desktop/Projects/Test/Test.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Cronos": {
+              "target": "Package",
+              "version": "[0.7.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.7.28, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
